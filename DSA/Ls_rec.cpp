@@ -8,6 +8,7 @@ using namespace std;
 int Bs(int arr[], int e, int s, int key){
     if()
 }
+
 int main(){
 int yrr[]={1,3,4,5,6,2};
 cout<<Bs(yrr,6,5);
